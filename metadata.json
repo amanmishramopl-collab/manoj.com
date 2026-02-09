@@ -1,0 +1,8 @@
+{
+  "name": "Manoj Ornament - Luxury Jewelry",
+  "description": "An exquisite online catalog for Manoj Ornament featuring premium gold and diamond jewelry in a sophisticated dark theme.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
